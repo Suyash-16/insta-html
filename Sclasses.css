@@ -1,0 +1,167 @@
+/*Suyash's css*/
+*{
+  padding: 0;
+  margin: 0;
+}
+.search{
+  margin-top: 0;
+  width: 397px;
+  height: 100vh;
+ position: relative;
+}
+.padding-search{
+  padding: 12px 0px 0px 20px;
+}
+.search-font{
+  font-size: x-large;
+}
+.marginunique{
+ margin-left:10px;
+}
+.input-width{
+  width: 250px;
+}
+.input-height{
+  height: 30px;
+}
+.transformuni{
+  transform: translateX(-10px);
+}
+.background-input,.background-form{
+ background-color:white;
+}
+
+.search-icon {
+  position: absolute;
+  top: 90px;
+  right:280px;
+}
+.submit-icon{
+  position: absolute;
+  top: 90px;
+  right: 7px;
+}
+.search2width{
+  position: absolute;
+  width: 314px;
+  height: 140px;
+  border-bottom:2px solid #858181;
+}
+.color-black{
+  background-color: black;
+}
+.upload-modal{
+  height: 624px;
+  width: 531px;
+}
+.upload-txt{
+  width: 531px;
+  height: 43px;
+  text-align: center;
+}
+.font-upload-txt{
+  font-family: "PT Sans", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  font-size: 20px;
+}
+.border-top{
+  border-radius: 10px 10px 0px 0px ;
+}
+.border-solid{
+  border-bottom: 1px solid red;
+}
+.border-black{
+  border:1px solid gray ;
+}
+.border-bottom{
+  border-radius: 0px 0px 10px 10px ;
+}
+.color-green{
+  background-color: green;
+}
+.insert-img-class{
+  height: 581px;
+  width: 531px;
+  flex-direction: column;
+}
+.insert-img{
+  margin-bottom: 30px;
+}
+.font-larger{
+  font-size: larger;
+}
+.select-btn{
+  width: 176.8px;
+  height: 32px;
+}
+.sff{
+  padding: 7px 16px ;
+}
+.blue-bg{
+ background-color: #0095F6;
+}
+.select-btn:hover{
+  background-color: #1877f2;
+}
+.font-weight-heavy{
+  font-weight:700;
+  font: bold;
+  
+}
+.color-white{
+  color: white;
+}
+.bg-white{
+  background-color: white;
+}
+.cross{
+  top: 40px;
+  right: 40px;
+}
+.abs-position{
+  position: absolute;
+}
+.font-xxlarge{
+  font-size: xx-large;
+}
+.color-gray{
+  color: #858181;
+}
+.margin-left-20{
+margin-left: 20px;
+}
+.margin-top-20{
+  margin-top: 20px;
+}
+.position-relative{
+  position: relative;
+}
+.position-abs{
+  position: absolute;
+}
+.hidden-overflow{
+  overflow: hidden;
+}
+.form{
+  margin-top: 20px;
+}
+.input-box{
+  width: 350px;
+  height: 30px;
+  background-color: #858181;
+}
+.ion-icon{
+  font-size: larger;
+}
+.border-round-sys5{
+  border-radius: 5px;
+}
+.search-box-container{
+  width: 397px;
+  height: 300px;
+  position: relative;
+  background-color:black ;
+}
+/* You can adjust the size and position of the upload modal as needed */
+
